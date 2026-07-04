@@ -2,13 +2,15 @@ import mongoose, { Schema, Document } from 'mongoose';
 
 export interface INature extends Document {
   name: string;
+  key: string;
   nameEn: string;
   increasedStat: string;
   decreasedStat: string;
 }
 
 const NatureSchema: Schema = new Schema({
-  name: { type: String, required: true, unique: true },
+  name: { type: String, required: true },
+  key: { type: String, required: true, unique: true },
   nameEn: { type: String, required: true },
   increasedStat: { type: String, default: '' },
   decreasedStat: { type: String, default: '' }

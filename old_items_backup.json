@@ -1,0 +1,1038 @@
+[
+  {
+    "_id": "6a45988a92ce0102fd5ec54e",
+    "name": "Baya Zreza",
+    "__v": 0,
+    "description": "Elimina la parálisis del portador. Se puede usar una vez por combate./Elimina la parálisis del portador. Puede usarse una vez por combate.",
+    "key": "item.baya_zreza"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec550",
+    "name": "Baya Atania",
+    "__v": 0,
+    "description": "Elimina el sueño del portador. Se puede usar una vez por combate./Elimina el sueño del portador. Puede usarse una vez por combate.",
+    "key": "item.baya_atania"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec552",
+    "name": "Baya Duraz/Baya Meloc",
+    "__v": 0,
+    "description": "Elimina el envenenamiento y el envenenamiento grave del portador. Se puede usar una vez por combate./Elimina el envenenamiento y el envenenamiento grave del portador. Puede usarse una vez por combate.",
+    "key": "item.baya_durazbaya_meloc"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec554",
+    "name": "Baya Safre",
+    "__v": 0,
+    "description": "Elimina las quemaduras del portador. Se puede usar una vez por combate./Elimina las quemaduras del portador. Puede usarse una vez por combate.",
+    "key": "item.baya_safre"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec556",
+    "name": "Baya Perasi",
+    "__v": 0,
+    "description": "Elimina la congelación del portador. Se puede usar una vez por combate./Elimina la congelación del portador. Puede usarse una vez por combate.",
+    "key": "item.baya_perasi"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec558",
+    "name": "Baya Zanama",
+    "__v": 0,
+    "description": "Restaura 10 PP de un movimiento del portador al que no le quedan PP. Se puede usar una vez por combate./Restaura 10 PP de un movimiento del portador al que no le quedan PP. Puede usarse una vez por combate.",
+    "key": "item.baya_zanama"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec55a",
+    "name": "Baya Aranja",
+    "__v": 0,
+    "description": "Restaura 10 PS del portador cuando sus PS máximos son reducidos a un 50 % o menos. Se puede usar una vez por combate./Restaura 10 PS del portador cuando sus PS máximos se ven reducidos a la mitad o menos. Puede usarse una vez por combate.",
+    "key": "item.baya_aranja"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec55c",
+    "name": "Baya Caquic",
+    "__v": 0,
+    "description": "Elimina la confusión del portador. Se puede usar una vez por combate./Elimina la confusión del portador. Puede usarse una vez por combate.",
+    "key": "item.baya_caquic"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec55e",
+    "name": "Baya Ziuela",
+    "__v": 0,
+    "description": "Elimina todos los problemas de estado y la confusión del portador. Se puede usar una vez por combate./Elimina todos los problemas de estado y la confusión del portador. Puede usarse una vez por combate.",
+    "key": "item.baya_ziuela"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec560",
+    "name": "Baya Citrón/Baya Zidra",
+    "__v": 0,
+    "description": "Restaura un 25 % de los PS máximos del portador cuando son reducidos a un 50 % o menos. Se puede usar una vez por combate./Restaura 1/4 de los PS máximos del portador cuando se ven reducidos a la mitad o menos. Puede usarse una vez por combate.",
+    "key": "item.baya_citrnbaya_zidra"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec562",
+    "name": "Baya Caoca",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Fuego que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Fuego que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_caoca"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec564",
+    "name": "Baya Pasio",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Agua que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Agua que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_pasio"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec566",
+    "name": "Baya Gualot",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Eléctrico que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Eléctrico que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_gualot"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec568",
+    "name": "Baya Tamar",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Planta que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Planta que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_tamar"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec56a",
+    "name": "Baya Rimoya",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Hielo que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Hielo que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_rimoya"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec56c",
+    "name": "Baya Pomaro",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Pelea que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Lucha que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_pomaro"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec56e",
+    "name": "Baya Kebia",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Veneno que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Veneno que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_kebia"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec570",
+    "name": "Baya Acardo",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Tierra que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Tierra que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_acardo"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec572",
+    "name": "Baya Kouba",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Volador que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Volador que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_kouba"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec574",
+    "name": "Baya Payapa",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Psíquico que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Psíquico que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_payapa"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec576",
+    "name": "Baya Yecana",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Insecto que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Bicho que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_yecana"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec578",
+    "name": "Baya Alcho",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Roca que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Roca que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_alcho"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec57a",
+    "name": "Baya Drasi",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Fantasma que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Fantasma que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_drasi"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec57c",
+    "name": "Baya Anjiro",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Dragón que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Dragón que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_anjiro"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec57e",
+    "name": "Baya Dillo",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Siniestro que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Siniestro que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_dillo"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec580",
+    "name": "Baya Baribá",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Acero que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Acero que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_barib"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec582",
+    "name": "Baya Chilan",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque de tipo Normal que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque de tipo Normal que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_chilan"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec584",
+    "name": "Polvo Brillo",
+    "__v": 0,
+    "description": "Reduce un 10 % la precisión de los movimientos que el rival usa contra el portador.",
+    "key": "item.polvo_brillo"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec586",
+    "name": "Hierba Blanca",
+    "__v": 0,
+    "description": "Restaura las características del portador que hayan sido reducidas. Se puede usar una vez por combate./Restaura las características del portador que se hayan visto reducidas. Puede usarse una vez por combate.",
+    "key": "item.hierba_blanca"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec588",
+    "name": "Garra Rápida",
+    "__v": 0,
+    "description": "Hace que el portador tenga una probabilidad del 20 % de actuar primero cuando su movimiento tiene la misma prioridad que otros.",
+    "key": "item.garra_rpida"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec58a",
+    "name": "Hierba Mental",
+    "__v": 0,
+    "description": "Elimina los estados Enamorado, Provocación, Repetición anulada, Movimiento anulado, Curación anulada y Otra Vez que afectan al portador. Se puede usar una vez por combate./Elimina los estados Enamorado, Mofa, Repetición anulada, Movimiento anulado, Cura anulada y Otra Vez del portador. Puede usarse una vez por combate.",
+    "key": "item.hierba_mental"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec58c",
+    "name": "Roca del Rey",
+    "__v": 0,
+    "description": "Hace que el portador tenga una probabilidad del 10 % de atemorizar al objetivo al causarle daño con un movimiento./Hace que el portador tenga una probabilidad del 10 % de amedrentar al objetivo al infligirle daño con un movimiento.",
+    "key": "item.roca_del_rey"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec58e",
+    "name": "Polvo Plata",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Insecto del portador./Aumenta un 20 % la potencia de los movimientos de tipo Bicho del portador.",
+    "key": "item.polvo_plata"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec590",
+    "name": "Cinta Aguante",
+    "__v": 0,
+    "description": "Hace que el portador tenga una probabilidad del 10 % de aguantar con 1 PS un ataque que lo debilitaría./Hace que el portador tenga una probabilidad del 10 % de aguantar con 1 PS un movimiento que lo debilitaría.",
+    "key": "item.cinta_aguante"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec592",
+    "name": "Periscopio",
+    "__v": 0,
+    "description": "Aumenta un nivel la probabilidad de lanzar golpes críticos del portador./Aumenta un nivel la probabilidad de asestar golpes críticos del portador.",
+    "key": "item.periscopio"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec594",
+    "name": "Revestimiento Metálico",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Acero del portador.",
+    "key": "item.revestimiento_metlico"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec596",
+    "name": "Restos",
+    "__v": 0,
+    "description": "Restauran un 6.25 % de los PS máximos del portador al final de cada turno./Restauran 1/16 de los PS máximos del portador al final de cada turno.",
+    "key": "item.restos"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec598",
+    "name": "Bola Luminosa",
+    "__v": 0,
+    "description": "Si la lleva Pikachu, le duplica el Ataque y el Ataque Especial.",
+    "key": "item.bola_luminosa"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec59a",
+    "name": "Arena Fina",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Tierra del portador.",
+    "key": "item.arena_fina"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec59c",
+    "name": "Piedra Dura",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Roca del portador.",
+    "key": "item.piedra_dura"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec59e",
+    "name": "Semilla Milagro",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Planta del portador.",
+    "key": "item.semilla_milagro"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5a0",
+    "name": "Lentes de Sol/Gafas de Sol",
+    "__v": 0,
+    "description": "Aumentan un 20 % la potencia de los movimientos de tipo Siniestro del portador.",
+    "key": "item.lentes_de_solgafas_de_sol"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5a2",
+    "name": "Cinturón Negro",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Pelea del portador.",
+    "key": "item.cinturn_negro"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5a4",
+    "name": "Imán",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Eléctrico del portador.",
+    "key": "item.imn"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5a6",
+    "name": "Agua Mística",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Agua del portador.",
+    "key": "item.agua_mstica"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5a8",
+    "name": "Pico Afilado",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Volador del portador.",
+    "key": "item.pico_afilado"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5aa",
+    "name": "Flecha Venenosa",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Veneno del portador.",
+    "key": "item.flecha_venenosa"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5ac",
+    "name": "Hielo Perpetuo",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Hielo del portador.",
+    "key": "item.hielo_perpetuo"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5ae",
+    "name": "Hechizo",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Fantasma del portador.",
+    "key": "item.hechizo"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5b0",
+    "name": "Cuchara Torcida",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Psíquico del portador.",
+    "key": "item.cuchara_torcida"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5b2",
+    "name": "Carbón",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Fuego del portador.",
+    "key": "item.carbn"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5b4",
+    "name": "Colmillo Dragón/Colmillo de Dragón",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Dragón del portador.",
+    "key": "item.colmillo_dragncolmillo_de_dragn"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5b6",
+    "name": "Pañuelo de Seda",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Normal del portador.",
+    "key": "item.pauelo_de_seda"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5b8",
+    "name": "Cascabel Nácar/Cascabel Concha",
+    "__v": 0,
+    "description": "Hace que el portador recupere una cantidad de PS equivalente a un 12.5 % del daño que cause con un movimiento./Hace que el portador recupere una cantidad de PS equivalente a 1/8 del daño que inflija con un movimiento.",
+    "key": "item.cascabel_ncarcascabel_concha"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5ba",
+    "name": "Lupa",
+    "__v": 0,
+    "description": "Aumenta un 10 % la precisión de los movimientos del portador.",
+    "key": "item.lupa"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5bc",
+    "name": "Cinta Fuerte",
+    "__v": 0,
+    "description": "Aumenta un 10 % la potencia de los ataques físicos del portador.",
+    "key": "item.cinta_fuerte"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5be",
+    "name": "Lentes Especiales/Gafas Especiales",
+    "__v": 0,
+    "description": "Aumentan un 10 % la potencia de los ataques especiales del portador.",
+    "key": "item.lentes_especialesgafas_especiales"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5c0",
+    "name": "Cinturón de Experto",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos supereficaces del portador.",
+    "key": "item.cinturn_de_experto"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5c2",
+    "name": "Refleluz",
+    "__v": 0,
+    "description": "Prolonga tres turnos la duración de Pantalla de Luz, Reflejo o Velo Aurora del portador, haciendo que duren ocho turnos en total.",
+    "key": "item.refleluz"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5c4",
+    "name": "Vidaesfera/Vidasfera",
+    "__v": 0,
+    "description": "Aumenta un 30 % la potencia de los movimientos del portador, pero hace que pierda un 10 % de sus PS máximos cada vez que un ataque alcanza a su objetivo./Aumenta un 30 % la potencia de los movimientos del portador, pero hace que pierda 1/10 de sus PS máximos cada vez que un ataque alcanza a su objetivo.",
+    "key": "item.vidaesferavidasfera"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5c6",
+    "name": "Banda Aguante",
+    "__v": 0,
+    "description": "Si el portador tiene los PS al máximo, aguanta con 1 PS un movimiento que lo debilitaría de un golpe. Se puede usar una vez por combate./Si el portador tiene los PS al máximo, aguanta con 1 PS un movimiento que lo debilitaría de un golpe. Puede usarse una vez por combate.",
+    "key": "item.banda_aguante"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5c8",
+    "name": "Telescopio",
+    "__v": 0,
+    "description": "Aumenta un 20 % la precisión de los movimientos del portador si actúa después del rival./Aumenta un 20 % la precisión de los movimientos del portador si actúa después que el rival.",
+    "key": "item.telescopio"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5ca",
+    "name": "Metrónomo",
+    "__v": 0,
+    "description": "Potencia un movimiento que el portador use de forma consecutiva. Aumenta un 20 % adicional la potencia original del movimiento cada vez que se usa, hasta un máximo de un 100 %. El efecto se pierde si se usa otro movimiento.",
+    "key": "item.metrnomo"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5cc",
+    "name": "Bola Férrea",
+    "__v": 0,
+    "description": "Reduce un 50 % la Velocidad del portador. Si no está en contacto con el suelo, pasará a estarlo y le afectarán los movimientos de tipo Tierra y los estados Púas, Púas Tóxicas y Red Pegajosa./Reduce a la mitad la Velocidad del portador. Si no está en contacto con el suelo, pasará a estarlo y le afectarán los movimientos de tipo Tierra y los estados Púas, Púas tóxicas y Red Viscosa.",
+    "key": "item.bola_frrea"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5ce",
+    "name": "Roca Helada",
+    "__v": 0,
+    "description": "Prolonga tres turnos la duración de las nevadas provocadas por los movimientos o la habilidad del portador, haciendo que duren ocho turnos en total.",
+    "key": "item.roca_helada"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5d0",
+    "name": "Roca Suave",
+    "__v": 0,
+    "description": "Prolonga tres turnos la duración de las tormentas de arena provocadas por los movimientos o la habilidad del portador, haciendo que duren ocho turnos en total.",
+    "key": "item.roca_suave"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5d2",
+    "name": "Roca Calor",
+    "__v": 0,
+    "description": "Prolonga tres turnos la duración del tiempo soleado provocado por los movimientos o la habilidad del portador, haciendo que dure ocho turnos en total.",
+    "key": "item.roca_calor"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5d4",
+    "name": "Roca Lluvia",
+    "__v": 0,
+    "description": "Prolonga tres turnos la duración de la lluvia provocada por los movimientos o la habilidad del portador, haciendo que dure ocho turnos en total.",
+    "key": "item.roca_lluvia"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5d6",
+    "name": "Pañuelo Elección",
+    "__v": 0,
+    "description": "Aumenta un 50 % la Velocidad del portador, pero, una vez que haya utilizado un movimiento, solo podrá usar el mismo hasta que sea cambiado por otro Pokémon.",
+    "key": "item.pauelo_eleccin"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5d8",
+    "name": "Muda de Piel/Muda Concha",
+    "__v": 0,
+    "description": "Permite que el Pokémon portador pueda ser cambiado por otro aunque haya efectos que lo impidan./Permite que el portador pueda cambiarse por otro Pokémon aunque haya efectos que lo impidan.",
+    "key": "item.muda_de_pielmuda_concha"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5da",
+    "name": "Raíz Grande",
+    "__v": 0,
+    "description": "Hace que el portador recupere un 30 % más de PS al usar movimientos que drenan PS, tales como Absorbefuerza o Arraigo.",
+    "key": "item.raz_grande"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5dc",
+    "name": "Gengarita",
+    "__v": 0,
+    "description": "Si la lleva Gengar, le permite megaevolucionar.",
+    "key": "item.gengarita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5de",
+    "name": "Gardevoirita",
+    "__v": 0,
+    "description": "Si la lleva Gardevoir, le permite megaevolucionar.",
+    "key": "item.gardevoirita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5e0",
+    "name": "Ampharosita",
+    "__v": 0,
+    "description": "Si la lleva Ampharos, le permite megaevolucionar.",
+    "key": "item.ampharosita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5e2",
+    "name": "Venusaurita",
+    "__v": 0,
+    "description": "Si la lleva Venusaur, le permite megaevolucionar.",
+    "key": "item.venusaurita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5e4",
+    "name": "Charizardita X",
+    "__v": 0,
+    "description": "Si la lleva Charizard, le permite megaevolucionar a Mega-Charizard X.",
+    "key": "item.charizardita_x"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5e6",
+    "name": "Blastoisita",
+    "__v": 0,
+    "description": "Si la lleva Blastoise, le permite megaevolucionar.",
+    "key": "item.blastoisita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5e8",
+    "name": "Blazikenita",
+    "__v": 0,
+    "description": "Si la lleva Blaziken, le permite megaevolucionar.",
+    "key": "item.blazikenita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5ea",
+    "name": "Medichamita",
+    "__v": 0,
+    "description": "Si la lleva Medicham, le permite megaevolucionar.",
+    "key": "item.medichamita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5ec",
+    "name": "Houndoomita",
+    "__v": 0,
+    "description": "Si la lleva Houndoom, le permite megaevolucionar.",
+    "key": "item.houndoomita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5ee",
+    "name": "Aggronita",
+    "__v": 0,
+    "description": "Si la lleva Aggron, le permite megaevolucionar.",
+    "key": "item.aggronita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5f0",
+    "name": "Banettita",
+    "__v": 0,
+    "description": "Si la lleva Banette, le permite megaevolucionar.",
+    "key": "item.banettita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5f2",
+    "name": "Tyranitarita",
+    "__v": 0,
+    "description": "Si la lleva Tyranitar, le permite megaevolucionar.",
+    "key": "item.tyranitarita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5f4",
+    "name": "Scizorita",
+    "__v": 0,
+    "description": "Si la lleva Scizor, le permite megaevolucionar.",
+    "key": "item.scizorita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5f6",
+    "name": "Pinsirita",
+    "__v": 0,
+    "description": "Si la lleva Pinsir, le permite megaevolucionar.",
+    "key": "item.pinsirita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5f8",
+    "name": "Aerodactylita",
+    "__v": 0,
+    "description": "Si la lleva Aerodactyl, le permite megaevolucionar.",
+    "key": "item.aerodactylita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5fa",
+    "name": "Lucarita",
+    "__v": 0,
+    "description": "Si la lleva Lucario, le permite megaevolucionar.",
+    "key": "item.lucarita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5fc",
+    "name": "Abomasnowita",
+    "__v": 0,
+    "description": "Si la lleva Abomasnow, le permite megaevolucionar.",
+    "key": "item.abomasnowita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec5fe",
+    "name": "Kangaskhanita",
+    "__v": 0,
+    "description": "Si la lleva Kangaskhan, le permite megaevolucionar.",
+    "key": "item.kangaskhanita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec600",
+    "name": "Gyaradosita",
+    "__v": 0,
+    "description": "Si la lleva Gyarados, le permite megaevolucionar.",
+    "key": "item.gyaradosita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec602",
+    "name": "Absolita",
+    "__v": 0,
+    "description": "Si la lleva Absol, le permite megaevolucionar.",
+    "key": "item.absolita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec604",
+    "name": "Charizardita Y",
+    "__v": 0,
+    "description": "Si la lleva Charizard, le permite megaevolucionar a Mega-Charizard Y.",
+    "key": "item.charizardita_y"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec606",
+    "name": "Alakazamita",
+    "__v": 0,
+    "description": "Si la lleva Alakazam, le permite megaevolucionar.",
+    "key": "item.alakazamita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec608",
+    "name": "Heracrossita",
+    "__v": 0,
+    "description": "Si la lleva Heracross, le permite megaevolucionar.",
+    "key": "item.heracrossita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec60a",
+    "name": "Mawilita",
+    "__v": 0,
+    "description": "Si la lleva Mawile, le permite megaevolucionar.",
+    "key": "item.mawilita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec60c",
+    "name": "Manectricita",
+    "__v": 0,
+    "description": "Si la lleva Manectric, le permite megaevolucionar.",
+    "key": "item.manectricita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec60e",
+    "name": "Garchompita",
+    "__v": 0,
+    "description": "Si la lleva Garchomp, le permite megaevolucionar.",
+    "key": "item.garchompita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec610",
+    "name": "Baya Hibis",
+    "__v": 0,
+    "description": "Reduce un 50 % el daño de un ataque supereficaz de tipo Hada que reciba el portador. Se puede usar una vez por combate./Reduce a la mitad el daño de un ataque supereficaz de tipo Hada que el portador reciba. Puede usarse una vez por combate.",
+    "key": "item.baya_hibis"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec612",
+    "name": "Swampertita",
+    "__v": 0,
+    "description": "Si la lleva Swampert, le permite megaevolucionar.",
+    "key": "item.swampertita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec614",
+    "name": "Sceptilita",
+    "__v": 0,
+    "description": "Si la lleva Sceptile, le permite megaevolucionar.",
+    "key": "item.sceptilita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec616",
+    "name": "Sableynita",
+    "__v": 0,
+    "description": "Si la lleva Sableye, le permite megaevolucionar.",
+    "key": "item.sableynita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec618",
+    "name": "Altarianita",
+    "__v": 0,
+    "description": "Si la lleva Altaria, le permite megaevolucionar.",
+    "key": "item.altarianita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec61a",
+    "name": "Galladita",
+    "__v": 0,
+    "description": "Si la lleva Gallade, le permite megaevolucionar.",
+    "key": "item.galladita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec61c",
+    "name": "Audinita",
+    "__v": 0,
+    "description": "Si la lleva Audino, le permite megaevolucionar.",
+    "key": "item.audinita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec61e",
+    "name": "Metagrossita",
+    "__v": 0,
+    "description": "Si la lleva Metagross, le permite megaevolucionar.",
+    "key": "item.metagrossita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec620",
+    "name": "Sharpedonita",
+    "__v": 0,
+    "description": "Si la lleva Sharpedo, le permite megaevolucionar.",
+    "key": "item.sharpedonita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec622",
+    "name": "Slowbronita",
+    "__v": 0,
+    "description": "Si la lleva Slowbro, le permite megaevolucionar. No tiene efecto en el Slowbro de Galar.",
+    "key": "item.slowbronita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec624",
+    "name": "Steelixita",
+    "__v": 0,
+    "description": "Si la lleva Steelix, le permite megaevolucionar.",
+    "key": "item.steelixita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec626",
+    "name": "Pidgeotita",
+    "__v": 0,
+    "description": "Si la lleva Pidgeot, le permite megaevolucionar.",
+    "key": "item.pidgeotita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec628",
+    "name": "Glalita",
+    "__v": 0,
+    "description": "Si la lleva Glalie, le permite megaevolucionar.",
+    "key": "item.glalita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec62a",
+    "name": "Cameruptita",
+    "__v": 0,
+    "description": "Si la lleva Camerupt, le permite megaevolucionar.",
+    "key": "item.cameruptita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec62c",
+    "name": "Lopunnita",
+    "__v": 0,
+    "description": "Si la lleva Lopunny, le permite megaevolucionar.",
+    "key": "item.lopunnita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec62e",
+    "name": "Beedrillita",
+    "__v": 0,
+    "description": "Si la lleva Beedrill, le permite megaevolucionar.",
+    "key": "item.beedrillita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec630",
+    "name": "Pluma Feérica",
+    "__v": 0,
+    "description": "Aumenta un 20 % la potencia de los movimientos de tipo Hada del portador.",
+    "key": "item.pluma_ferica"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec632",
+    "name": "Clefablita",
+    "__v": 0,
+    "description": "Si la lleva Clefable, le permite megaevolucionar.",
+    "key": "item.clefablita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec634",
+    "name": "Victreebelita",
+    "__v": 0,
+    "description": "Si la lleva Victreebel, le permite megaevolucionar.",
+    "key": "item.victreebelita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec636",
+    "name": "Starmita",
+    "__v": 0,
+    "description": "Si la lleva Starmie, le permite megaevolucionar.",
+    "key": "item.starmita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec638",
+    "name": "Dragonitita",
+    "__v": 0,
+    "description": "Si la lleva Dragonite, le permite megaevolucionar.",
+    "key": "item.dragonitita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec63a",
+    "name": "Meganiumita",
+    "__v": 0,
+    "description": "Si la lleva Meganium, le permite megaevolucionar.",
+    "key": "item.meganiumita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec63c",
+    "name": "Feraligatrita",
+    "__v": 0,
+    "description": "Si la lleva Feraligatr, le permite megaevolucionar.",
+    "key": "item.feraligatrita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec63e",
+    "name": "Skarmorita",
+    "__v": 0,
+    "description": "Si la lleva Skarmory, le permite megaevolucionar.",
+    "key": "item.skarmorita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec640",
+    "name": "Froslassita",
+    "__v": 0,
+    "description": "Si la lleva Froslass, le permite megaevolucionar.",
+    "key": "item.froslassita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec642",
+    "name": "Emboarita",
+    "__v": 0,
+    "description": "Si la lleva Emboar, le permite megaevolucionar.",
+    "key": "item.emboarita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec644",
+    "name": "Excadrillita",
+    "__v": 0,
+    "description": "Si la lleva Excadrill, le permite megaevolucionar.",
+    "key": "item.excadrillita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec646",
+    "name": "Scolipedita",
+    "__v": 0,
+    "description": "Si la lleva Scolipede, le permite megaevolucionar.",
+    "key": "item.scolipedita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec648",
+    "name": "Scraftita",
+    "__v": 0,
+    "description": "Si la lleva Scrafty, le permite megaevolucionar.",
+    "key": "item.scraftita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec64a",
+    "name": "Eelektrossita",
+    "__v": 0,
+    "description": "Si la lleva Eelektross, le permite megaevolucionar.",
+    "key": "item.eelektrossita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec64c",
+    "name": "Chandelurita",
+    "__v": 0,
+    "description": "Si la lleva Chandelure, le permite megaevolucionar.",
+    "key": "item.chandelurita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec64e",
+    "name": "Chesnaughtita",
+    "__v": 0,
+    "description": "Si la lleva Chesnaught, le permite megaevolucionar.",
+    "key": "item.chesnaughtita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec650",
+    "name": "Delphoxita",
+    "__v": 0,
+    "description": "Si la lleva Delphox, le permite megaevolucionar.",
+    "key": "item.delphoxita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec652",
+    "name": "Greninjanita",
+    "__v": 0,
+    "description": "Si la lleva Greninja, le permite megaevolucionar.",
+    "key": "item.greninjanita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec654",
+    "name": "Pyroarita",
+    "__v": 0,
+    "description": "Si la lleva Pyroar, le permite megaevolucionar.",
+    "key": "item.pyroarita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec656",
+    "name": "Floettita",
+    "__v": 0,
+    "description": "Si la lleva Floette Flor Eterna, le permite megaevolucionar.",
+    "key": "item.floettita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec658",
+    "name": "Malamarita",
+    "__v": 0,
+    "description": "Si la lleva Malamar, le permite megaevolucionar.",
+    "key": "item.malamarita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec65a",
+    "name": "Barbaraclita",
+    "__v": 0,
+    "description": "Si la lleva Barbaracle, le permite megaevolucionar.",
+    "key": "item.barbaraclita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec65c",
+    "name": "Dragalgita",
+    "__v": 0,
+    "description": "Si la lleva Dragalge, le permite megaevolucionar.",
+    "key": "item.dragalgita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec65e",
+    "name": "Hawluchanita",
+    "__v": 0,
+    "description": "Si la lleva Hawlucha, le permite megaevolucionar.",
+    "key": "item.hawluchanita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec660",
+    "name": "Drampanita",
+    "__v": 0,
+    "description": "Si la lleva Drampa, le permite megaevolucionar.",
+    "key": "item.drampanita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec662",
+    "name": "Falinksita",
+    "__v": 0,
+    "description": "Si la lleva Falinks, le permite megaevolucionar.",
+    "key": "item.falinksita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec664",
+    "name": "Raichunita X",
+    "__v": 0,
+    "description": "Si la lleva Raichu, le permite megaevolucionar.",
+    "key": "item.raichunita_x"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec666",
+    "name": "Raichunita Y",
+    "__v": 0,
+    "description": "Si la lleva Raichu, le permite megaevolucionar.",
+    "key": "item.raichunita_y"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec668",
+    "name": "Chimechita",
+    "__v": 0,
+    "description": "Si la lleva Chimecho, le permite megaevolucionar.",
+    "key": "item.chimechita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec66a",
+    "name": "Staraptorita",
+    "__v": 0,
+    "description": "Si la lleva Staraptor, le permite megaevolucionar.",
+    "key": "item.staraptorita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec66c",
+    "name": "Golurkita",
+    "__v": 0,
+    "description": "Si la lleva Golurk, le permite megaevolucionar.",
+    "key": "item.golurkita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec66e",
+    "name": "Meowsticita",
+    "__v": 0,
+    "description": "Si la lleva Meowstic, le permite megaevolucionar.",
+    "key": "item.meowsticita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec670",
+    "name": "Crabominablita",
+    "__v": 0,
+    "description": "Si la lleva Crabominable, le permite megaevolucionar.",
+    "key": "item.crabominablita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec672",
+    "name": "Scovillainita",
+    "__v": 0,
+    "description": "Si la lleva Scovillain, le permite megaevolucionar.",
+    "key": "item.scovillainita"
+  },
+  {
+    "_id": "6a45988a92ce0102fd5ec674",
+    "name": "Glimmoranita",
+    "__v": 0,
+    "description": "Si la lleva Glimmora, le permite megaevolucionar.",
+    "key": "item.glimmoranita"
+  }
+]

@@ -5,7 +5,7 @@ import Item from '../models/Item.js';
 
 export const getAllPokemon = async (req: Request, res: Response) => {
   try {
-    const pokemons = await Pokemon.find({}, 'name types baseStats abilities learnset').lean();
+    const pokemons = await Pokemon.find({}, 'id name key types baseStats abilities learnset sprite3d spriteIcon').lean();
     res.json(pokemons);
   } catch (error: any) {
     res.status(500).json({ message: error.message });
@@ -33,13 +33,8 @@ export const getMoves = async (req: Request, res: Response) => {
 
 export const getAbilities = async (req: Request, res: Response) => {
   try {
-    // Get unique abilities from all pokemon
-    const pokemons = await Pokemon.find({}, 'abilities').lean();
-    const abilitiesSet = new Set<string>();
-    pokemons.forEach(p => {
-      p.abilities?.forEach(a => abilitiesSet.add(a));
-    });
-    res.json(Array.from(abilitiesSet).sort());
+    const abilities = await Ability.find({}).sort({ key: 1 }).lean();
+    res.json(abilities);
   } catch (error: any) {
     res.status(500).json({ message: error.message });
   }
@@ -47,7 +42,7 @@ export const getAbilities = async (req: Request, res: Response) => {
 
 export const getItems = async (req: Request, res: Response) => {
   try {
-    const items = await Item.find({}).sort({ name: 1 }).lean();
+    const items = await Item.find({}).sort({ key: 1 }).lean();
     res.json(items);
   } catch (error: any) {
     res.status(500).json({ message: error.message });

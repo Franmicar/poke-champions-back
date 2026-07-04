@@ -2,6 +2,7 @@ import mongoose, { Schema, Document } from 'mongoose';
 
 export interface IMove extends Document {
   name: string;
+  key: string;
   type: string;
   category: string;
   power?: number;
@@ -26,7 +27,8 @@ export interface IMove extends Document {
 }
 
 const MoveSchema: Schema = new Schema({
-  name: { type: String, required: true, unique: true },
+  name: { type: String, required: true },
+  key: { type: String, required: true, unique: true },
   type: { type: String, required: true },
   category: { type: String, required: true },
   power: { type: Number },

@@ -84,6 +84,8 @@ export class DamageCalculatorService {
       defenderSide: fieldData.defenderSide as any,
     });
 
+    const result = calculate(gen, attacker, defender, move, field);
+
     let koChance = '0%';
     try {
       koChance = result.kochance();

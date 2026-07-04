@@ -1,0 +1,20 @@
+{
+  "type.normal": "Normal",
+  "type.fire": "Fuego",
+  "type.water": "Agua",
+  "type.grass": "Planta",
+  "type.electric": "Eléctrico",
+  "type.ice": "Hielo",
+  "type.fighting": "Lucha",
+  "type.poison": "Veneno",
+  "type.ground": "Tierra",
+  "type.flying": "Volador",
+  "type.psychic": "Psíquico",
+  "type.bug": "Bicho",
+  "type.rock": "Roca",
+  "type.ghost": "Fantasma",
+  "type.dragon": "Dragón",
+  "type.dark": "Siniestro",
+  "type.steel": "Acero",
+  "type.fairy": "Hada"
+}

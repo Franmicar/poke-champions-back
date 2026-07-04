@@ -20,6 +20,7 @@ app.use(cors());
 app.use(compression());
 app.use(express.json());
 app.use(morgan('dev'));
+app.use(express.static('public'));
 
 // Routes
 import calculatorRoutes from './routes/calculator.routes.js';

@@ -1,7 +1,8 @@
 import mongoose from 'mongoose';
 
 const AbilitySchema = new mongoose.Schema({
-  name: { type: String, unique: true },
+  name: { type: String },
+  key: { type: String, required: true, unique: true },
   description: String,
   shortDescription: String,
 });
